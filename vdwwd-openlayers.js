@@ -1,4 +1,12 @@
-﻿var map;
+//
+//
+// VDWWD OpenLayers & OpenStreetMap Examples
+//
+// https://www.vanderwaal.eu
+//
+//
+
+var map;
 var overlay;
 var interaction;
 var featureArr;
