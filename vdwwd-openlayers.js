@@ -44,7 +44,7 @@ function initMap() {
     });
 
     //add a custom layer to the map
-    //olms.apply(map, 'https://api.maptiler.com/maps/basic/style.json?key=xxsAuwkPOcpryqPQdtC8');
+    //olms.apply(map, 'https://api.maptiler.com/maps/basic/style.json?key=XXXXX');
 
     //create an overlay to anchor the hover popup to the map
     overlay = new ol.Overlay({
